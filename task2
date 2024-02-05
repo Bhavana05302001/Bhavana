@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TASK2 HTML</title>
+</head>
+<body>
+    <hr>
+    <br>
+    <header>
+        <center>
+            <img src="C:\Users\saisi\OneDrive\Desktop\web_technology\web_images\360Digrii (1).png"
+            </header>
+        
+            <br>
+            <hr>
+            <font size="6px"
+            color="orange"><b><u>Follow Us: </u></b></font>
+            <br>
+            <br>
+            <img src="C:\Users\saisi\OneDrive\Desktop\web_technology\web_images\linkedin.png"width="200px"height="200px">
+            <img src="web_images/twitter.png"width="200px"height="200px">
+            <img src="C:\Users\saisi\OneDrive\Desktop\web_technology\web_images\facebook.png"width="200px"height="200px">
+            <img src="C:\Users\saisi\OneDrive\Desktop\web_technology\web_images\instagram.jpg"width="200px"height="200px">
+            <br>
+            <br>
+            <hr>
+            <font color="orange" size="5"><u>our clients:</u></font><br>
+            <br>
+            <a href="https://www.tcs.com/">tcs</a>
+            <a href="https://www.ibm.com/in-en">IBM</a>
+            <a href="https://www.wipro.com/">Wipro</a>
+            <a href="https://www.optum.com/en/">Optum</a>
+
+        </center>
+    </header>
+
+    
+</body>
+</html>
